@@ -1,0 +1,6 @@
+title: Delta
+description: The Delta Web Version
+url: https://deltawebv1.github.io
+baseurl: ""
+markdown: kramdown
+theme: minima
